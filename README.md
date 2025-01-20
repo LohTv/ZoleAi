@@ -1,2 +1,2 @@
 # ZoleAi
-AiProjectforZole
+Ai project for zole
